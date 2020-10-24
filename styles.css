@@ -35,7 +35,8 @@ h2{
     margin: 3px 0;
 }
 #menu .aktiv{
-    list-style-type: disc;
+    list-style-type: square;
+    font-weight: bold;
 }
 a, a:link, a:visited{
     color: #006;
