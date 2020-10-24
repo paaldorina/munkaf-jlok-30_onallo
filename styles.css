@@ -55,9 +55,11 @@ a:hover{
 }
 table{
     border-collapse: collapse;
+    margin: 10px auto;
 }
 th, td{
     padding: 3px 8px;
+    border: 2px dotted black;
 }
 form{
     margin: 10px;
